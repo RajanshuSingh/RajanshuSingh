@@ -1,4 +1,4 @@
-# 💫 About Me:
+![image](https://github.com/user-attachments/assets/3be2cb9e-7c09-4b78-b744-3e8e8f377b27)# 💫 About Me:
 Hey there! 👋<br>I'm Rajanshu Singh, a passionate software developer who loves turning ideas into reality through websites and mobile apps. I enjoy exploring new technologies and solving real-world problems with code.<br><br>🔭 Currently working on: Web Development projects and Hackathons<br>🌱 Learning more about: Data Structures & Algorithms, Web3, IoT<br>💬 Ask me about: Technologies, Indian Geopolitics, Socioeconomics<br>🧑‍💻 Tech stack: JavaScript, Java, C++, MERN<br>📫 How to reach me: rajanshusingh258@gmail.com<br>⚡ Fun fact: I believe in the power of Ctrl+Z to fix anything in life (if only it worked outside coding!) ⌨️✨<br>Let's collaborate and create something amazing! 🚀<br><br>
 
 
@@ -24,7 +24,14 @@ Hey there! 👋<br>I'm Rajanshu Singh, a passionate software developer who loves
 ---
 [![](https://visitcount.itsvg.in/api?id=RajanshuSingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=
+
+![image](https://github.com/user-attachments/assets/09ace760-233e-42a2-bc9d-d7ca1032f05b)
+![image](https://github.com/user-attachments/assets/7d217485-5643-4ca6-8fb0-006e2d216b09)
+![image](https://github.com/user-attachments/assets/42963401-9d6d-4128-95c3-6b1964690e2e)
+![image](https://github.com/user-attachments/assets/c5499a17-5f75-44d8-847a-c3b4c13e232e)
+
+
+
 
 
 

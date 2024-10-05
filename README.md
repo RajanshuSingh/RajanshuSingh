@@ -24,11 +24,8 @@ Hey there! 👋<br>I'm Rajanshu Singh, a passionate software developer who loves
 ---
 [![](https://visitcount.itsvg.in/api?id=RajanshuSingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
+https://www.holopin.io/@rajanshusingh#badges 
 
-![image](https://github.com/user-attachments/assets/09ace760-233e-42a2-bc9d-d7ca1032f05b)
-![image](https://github.com/user-attachments/assets/7d217485-5643-4ca6-8fb0-006e2d216b09)
-![image](https://github.com/user-attachments/assets/42963401-9d6d-4128-95c3-6b1964690e2e)
-![image](https://github.com/user-attachments/assets/c5499a17-5f75-44d8-847a-c3b4c13e232e)
 
 
 

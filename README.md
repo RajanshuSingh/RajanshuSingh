@@ -24,7 +24,10 @@ Hey there! 👋<br>I'm Rajanshu Singh, a passionate software developer who loves
 ---
 [![](https://visitcount.itsvg.in/api?id=RajanshuSingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-https://www.holopin.io/@rajanshusingh#badges 
+
+
+[![An image of @rajanshusingh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajanshusingh)](https://holopin.io/@rajanshusingh)
+
 
 
 

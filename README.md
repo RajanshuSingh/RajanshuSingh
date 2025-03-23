@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hey there! 👋<br>I'm Rajanshu Singh, a passionate software developer who loves turning ideas into reality through websites and mobile apps. I enjoy exploring new technologies and solving real-world problems with code.<br><br>🔭 Currently working on: Web Development projects and Hackathons<br>🌱 Learning more about: Data Structures & Algorithms, Web3, IoT<br>💬 Ask me about: Technologies, Indian Geopolitics, Socioeconomics<br>🧑‍💻 Tech stack: JavaScript, Java, C++, MERN<br>📫 How to reach me: rajanshusingh258@gmail.com<br>⚡ Fun fact: I believe in the power of Ctrl+Z to fix anything in life (if only it worked outside coding!) ⌨️✨<br>Let's collaborate and create something amazing! 🚀<br><br>
+Hey there! 👋<br>I'm Rajanshu Singh, a passionate software developer who loves turning ideas into reality through websites and mobile apps. I enjoy exploring new technologies and solving real-world problems with code.<br><br>🔭 Currently working on: Web Development projects and Hackathons<br>🌱 Learning more about: Data Structures & Algorithms, Web3, IoT<br>💬 Ask me about: Technologies, Geopolitics, International affairs(esp. wrt India)<br>🧑‍💻 Tech stack: JavaScript, Java, C++, MERN<br>📫 How to reach me: rajanshusingh258@gmail.com<br>⚡ Fun fact: I believe in the power of Ctrl+Z to fix anything in life (if only it worked outside coding!) ⌨️✨<br>Let's collaborate and create something amazing! 🚀<br><br>
 
 
 
